@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"app","dependencies":{"@fluent-org/logger":{"version":"1.0.10"},"express":{"version":"4.18.2"},"request-ip":{"version":"3.3.0"}}}
